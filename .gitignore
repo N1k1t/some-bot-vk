@@ -1,0 +1,4 @@
+node_modules
+*.ppk
+sftp-config.json
+src/img/*.*
